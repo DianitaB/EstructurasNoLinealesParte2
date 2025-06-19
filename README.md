@@ -1,2 +1,2 @@
 ## Resultados
-![Resultados de la Practica](src\Arboles.png.jpg)
+![Resultados de la Practica](src\Arboles.png)
